@@ -1,0 +1,7 @@
+file,cvg
+kernel/audit.c,67.83
+kernel/auditfilter.c,69.37
+kernel/audit_fsnotify.c,55.68
+kernel/auditsc.c,54.75
+kernel/audit_tree.c,46.03
+kernel/audit_watch.c,72.86

@@ -1,0 +1,13 @@
+function,fc,fs,ss,pcii
+audit_fsnotify_init,0,8,136,5.88235
+audit_mark_handle_event,0,13,136,9.55882
+audit_autoremove_mark_rule,0,6,136,4.41176
+audit_remove_mark_rule,100,4,136,0
+audit_remove_mark,100,4,136,0
+audit_mark_log_rule_change,0,17,136,12.5
+audit_alloc_mark,94.29,35,136,1.46949
+audit_mark_compare,100,3,136,0
+audit_mark_path,100,2,136,0
+audit_fsnotify_free_mark,100,5,136,0
+audit_fsnotify_mark_free,100,4,136,0
+kzalloc_noprof,68.57,35,136,8.0886
